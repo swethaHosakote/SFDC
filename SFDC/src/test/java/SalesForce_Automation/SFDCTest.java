@@ -43,7 +43,6 @@ public class SFDCTest
 		
 	public static WebDriver driver;
 	
-	
 	public static ExtentReports reports;
 	public static ExtentTest logger;
 	
